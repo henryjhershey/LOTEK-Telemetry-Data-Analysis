@@ -55,6 +55,7 @@ createMasterR  <-  function(path1){
   
 }
 
+
 #create a master file of all the EMG files in a working directory.
 createMasterEMG  <-  function(path1){ 
   
